@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
@@ -21,3 +22,37 @@ Global
 		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{361D2F22-34B2-E100-2DAC-10E08B683CD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{E1156700-746A-6C12-4AD0-A5677BE9E272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{93D8981A-035D-88AB-FDFD-BF9ED10EAFFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{361D2F22-34B2-E100-2DAC-10E08B683CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361D2F22-34B2-E100-2DAC-10E08B683CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361D2F22-34B2-E100-2DAC-10E08B683CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361D2F22-34B2-E100-2DAC-10E08B683CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1156700-746A-6C12-4AD0-A5677BE9E272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1156700-746A-6C12-4AD0-A5677BE9E272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1156700-746A-6C12-4AD0-A5677BE9E272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1156700-746A-6C12-4AD0-A5677BE9E272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D8981A-035D-88AB-FDFD-BF9ED10EAFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D8981A-035D-88AB-FDFD-BF9ED10EAFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D8981A-035D-88AB-FDFD-BF9ED10EAFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D8981A-035D-88AB-FDFD-BF9ED10EAFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+>>>>>>> Stashed changes
